@@ -18,7 +18,10 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
-Snake game in vanilla Javascript and Html. Play with your hand gestures.
+Snake game in vanilla Javascript and Html. Play with your hand gestures. Watch an example [here](https://youtu.be/nZCrZGM6c04)
+
+AI model trained with  [Teachable Machine Pose Model](https://teachablemachine.withgoogle.com/)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
