@@ -28,7 +28,7 @@ AI model trained with  [Teachable Machine Pose Model](https://teachablemachine.w
 
 Simply clone this project and play locally:
   ```sh
-  git clone https://github.com/Lulabudy/Snake-TeachableMachine
+  git clone https://github.com/famicab/Snake-TeachableMachine
   ```
 <!-- USAGE EXAMPLES -->
 ## Usage
