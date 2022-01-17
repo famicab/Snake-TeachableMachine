@@ -18,7 +18,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About the project
-Snake game in vanilla Javascript and Html. Play it with your hand gestures thanks to machine learning!
+Snake game in vanilla Javascript and Html. Play with your hand gestures.
 
 <!-- GETTING STARTED -->
 ## Getting Started
@@ -37,9 +37,9 @@ Simply clone this project and play locally:
 <!-- CONTACT -->
 ## Contact
 
-Francesco De Amicis - [Github Profile](https://github.com/Lulabudy) - cesco.deamicis@gmail.com
+Francesco De Amicis - [Github Profile](https://github.com/famicab) - fldeamicis@iespuntadelverde.es
 
-Project Link: [https://github.com/Lulabudy/Snake-TeachableMachine](https://github.com/Lulabudy/Snake-TeachableMachine)
+Project Link: [https://github.com/famicab/Snake-TeachableMachine](https://github.com/famicab/Snake-TeachableMachine)
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
